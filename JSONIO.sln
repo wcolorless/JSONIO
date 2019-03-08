@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONIO", "JSONIO\JSONIO.csproj", "{CBB28EB7-4990-47BD-8218-BD290DFECEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONIOLIB", "JSONIOLIB\JSONIOLIB.csproj", "{F09FF290-B3F9-497A-9DBD-F6C386208EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB28EB7-4990-47BD-8218-BD290DFECEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB28EB7-4990-47BD-8218-BD290DFECEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB28EB7-4990-47BD-8218-BD290DFECEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB28EB7-4990-47BD-8218-BD290DFECEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09FF290-B3F9-497A-9DBD-F6C386208EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09FF290-B3F9-497A-9DBD-F6C386208EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09FF290-B3F9-497A-9DBD-F6C386208EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09FF290-B3F9-497A-9DBD-F6C386208EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
